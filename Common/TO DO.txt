@@ -1,0 +1,2 @@
+﻿2. Pogledati u njenom fajlu timer
+3. Poslati poruku samo jednom korisniku (izabrati ga iz drop down liste)
